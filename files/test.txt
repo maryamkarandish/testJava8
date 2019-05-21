@@ -1,0 +1,6 @@
+This properties file gives information about the environment properties that
+are needed for getting InitialContext.
+if the Application server is at different machine then
+instead of using localhost give the machine ip where Application server is running
+Uncomment the following if you are using JBoss
+If you are using Oracle Application Server then comment all the lines
